@@ -11,4 +11,4 @@ It is a todo app written with React-Native technology that includes default todo
 
 ## :star: Screenshot
 
-![](./assets/ios.gif)
+![](./src/assets/ios.gif)
